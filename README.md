@@ -1,9 +1,3 @@
-## Hi
-
--  studying what needs to be studied
--  scribbled agenda
--  Fun fact: me too
-
 <h2 align="center">Hello World!</h2>
 
 ###
@@ -39,7 +33,7 @@
 
 ###
 
-<p align="left">- Learning a little bit of everything -<br>- Computer Science -<br>- Studying what needs to be studied -<br>- Fun fact: me too -<br>- %Appdata% -</p>
+<p align="left">- Learning a little bit of everything -<br>- Studying what needs to be studied -<br>- Fun fact: me too -<br>- %Appdata% -</p>
 
 ###
 
