@@ -40,8 +40,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipedgk/felipedgk/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipedgk/felipedgk/output/snake.svg">
-    <img alt="Gráfico de contribuições com uma cobrinha" src="https://raw.githubusercontent.com/felipedgk/felipedgk/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe-cdn/felipe-cdn/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe-cdn/felipe-cdn/output/snake.svg">
+    <img alt="Gráfico de contribuições com uma cobrinha" src="https://raw.githubusercontent.com/felipe-cdn/felipe-cdn/output/snake-dark.svg">
   </picture>
 </div>
