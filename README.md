@@ -1,10 +1,36 @@
 <h2 align="center">Hello World!</h2>
 
-<p align="center">
-  Estudante de Ciência da Computação &nbsp;·&nbsp; Desenvolvimento Web &amp; Suporte de TI &nbsp;·&nbsp; Brasília, DF
-</p>
+<p align="center">Desenvolvimento web &nbsp;·&nbsp; Suporte de TI</p>
 
 ###
+
+Aprendo construindo. Gosto de transformar planilhas, processos manuais e ideias soltas em sistemas simples que funcionam no dia a dia.
+
+```js
+const felipe = {
+  constroi: "sistemas web simples, claros e úteis",
+  valoriza: ["clareza", "organização", "constância"],
+  principio: "entender antes de construir",
+};
+```
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="Firebase" title="Firebase" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />
+</div>
+
+###
+
+Quer conversar? É só chamar:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/felipecamargon/" target="_blank">
@@ -17,48 +43,8 @@
 
 ###
 
-```js
-const felipe = {
-  curso: "Ciência da Computação",
-  foco: ["Desenvolvimento Web", "Suporte de TI"],
-  aprendendo: ["C#", "Docker"],
-  status: "aberto a oportunidades",
-};
-```
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="Firebase" title="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" title="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" title="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="Blender" title="Blender" />
-  <img width="12" />
-  <sub>&nbsp;|&nbsp;</sub>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" title="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker" />
-  <sub>&nbsp;estudando</sub>
-</div>
-
-###
-
-<p align="left">- Learning a little bit of everything -<br>- Studying what needs to be studied -<br>- Fun fact: me too -<br>- %Appdata% -</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/felipedgk/felipedgk/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipedgk/felipedgk/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipedgk/felipedgk/output/snake.svg">
+  <img alt="Gráfico de contribuições com uma cobrinha" src="https://raw.githubusercontent.com/felipedgk/felipedgk/output/snake-dark.svg">
+</picture>
